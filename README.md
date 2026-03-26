@@ -2,19 +2,7 @@
 
 Beautiful, fast, and customizable booking calendar UI for Next.js with Cal.com v2 integration. Built for real-world use (from my site), open-sourced so you can copy, paste, and ship.
 
-![License](https://img.shields.io/badge/license-MIT-blue)
-![TypeScript](https://img.shields.io/badge/TypeScript-ready-blue)
-[![Live Demo](https://img.shields.io/badge/demo-live-green)](https://vladimirsiedykh.com/contact)
 
-## Live Preview
-
-- Live on my site: https://vladimirsiedykh.com/contact
-
-## Screenshots
-
-![Calendar](./public/booking-calendar.jpeg)
-![Booking Form](./public/booking-form.jpeg)
-![Success](./public/booking-success.jpeg)
 
 ## ✨ Features
 
@@ -151,19 +139,3 @@ MIT — see [LICENSE](LICENSE).
 
 This project is unaffiliated with Cal.com. “Cal.com” and related marks are trademarks of their respective owners. Use the Cal.com API in accordance with their Terms. If you want to be extra safe, skim Cal.com’s API Terms before going live. Keep your API key server-side.
 
-## Credits
-
-- [Cal.com](https://cal.com)
-- [shadcn/ui](https://ui.shadcn.com)
-- [Lucide](https://lucide.dev)
-- [Tailwind CSS](https://tailwindcss.com)
-
-If you have any questions or need help with implementation:
-
-- 🐛 [Report Issues](https://github.com/vladimir-siedykh/booking-calendar/issues)
-- 💬 [Discussions](https://github.com/vladimir-siedykh/booking-calendar/discussions)
-- 🌐 [Website](https://vladimirsiedykh.com)
-
----
-
-Built with ❤️ by [Vladimir Siedykh](https://vladimirsiedykh.com)
