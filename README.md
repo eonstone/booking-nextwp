@@ -2,8 +2,6 @@
 
 Beautiful, fast, and customizable booking calendar UI for Next.js with Cal.com v2 integration. Built for real-world use (from my site), open-sourced so you can copy, paste, and ship.
 
-
-
 ## ✨ Features
 
 - 🎨 Beautiful UI: Modern, accessible, responsive.
